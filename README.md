@@ -15,7 +15,7 @@ Select code freely!
 - `git clone`
 - 打开chrome 设置 更多工具 扩展程序
 - 打开右上角开发者模式
-- 点击右上角“加载已解压的扩展程序”
+- 点击左上角“加载已解压的扩展程序”
 - 找到clone好的`selectable`文件夹，点击“选择文件夹”
 - enjoy
 
