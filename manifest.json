@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Selectable",
+    "description": "Select code freely!",
+    "icons": {
+        "128": "img/icon.png",
+        "48": "img/icon.png",
+        "32": "img/icon.png",
+        "16": "img/icon.png"
+    },
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
